@@ -1,7 +1,7 @@
 # Atividades_Web_1
 
 ### Guilherme Pablo de sousa Silva<h3>
--[Atividade 01](  https://gl7x.github.io/atividade01/)
+-[Atividade 01](   https://gl7x.github.io/atividade01/)
 
 -[Atividade 02]( https://otavins.github.io/atividade02/)
 
