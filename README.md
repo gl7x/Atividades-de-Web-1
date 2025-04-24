@@ -5,9 +5,9 @@
 
 -[Atividade 02]( https://gl7x.github.io/atividade02/)
 
--[Atividade 03]( https://otavins.github.io/atividade03/)
+-[Atividade 03]( https://gl7x.github.io/atividade03/)
 
--[Atividade 04]( https://otavins.github.io/atividade04/)
+-[Atividade 04]( https://gl7x.github.io/atividade04/)
 
 -[Atividade 05]( https://otavins.github.io/atividade05/)
 
