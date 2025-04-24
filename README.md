@@ -11,20 +11,20 @@
 
 -[Atividade 05]( https://gl7x.github.io/atividade05/)
 
--[Atividade 06]( https://otavins.github.io/atividade06/)
+-[Atividade 06]( https://gl7x.github.io/atividade06/)
 
--[Atividade 07]( https://otavins.github.io/atividade07/)
+-[Atividade 07]( https://gl7x.github.io/atividade07/)
 
--[Atividade 08]( https://otavins.github.io/atividade08/)
+-[Atividade 08](https://gl7x.github.io/atividade08/)
 
--[Atividade 09]( https://otavins.github.io/atividade09/)
+-[Atividade 09](https://gl7x.github.io/atividade09/)
 
--[Atividade 10]( https://otavins.github.io/atividade10/)
+-[Atividade 10](https://gl7x.github.io/atividade10/)
 
--[Atividade 11]( https://otavins.github.io/atividade11/)
+-[Atividade 11]( https://gl7x.github.io/atividade11/)
 
--[Atividade 12]( https://otavins.github.io/atividade12/)
+-[Atividade 12]( https://gl7x.github.io/atividade12/)
 
--[Atividade 13]( https://otavins.github.io/atividade13/)
+-[Atividade 13]( https://gl7x.github.io/atividade13/)
 
--[Atividade 14]( https://otavins.github.io/atividade14/)
+-[Atividade 14]( https://gl7x.github.io/atividade14/)
