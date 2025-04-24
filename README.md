@@ -27,4 +27,4 @@
 
 -[Atividade 13]( https://gl7x.github.io/atividade13/)
 
--[Atividade 14]( https://gl7x.github.io/ativida/)
+-[Atividade 14]( https://gl7x.github.io/atividade14/)
